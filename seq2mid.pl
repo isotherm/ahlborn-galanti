@@ -1,4 +1,4 @@
-# Copyright (C) 2014 Kirk Meyer [kirk@meyermail.org]
+# Copyright (C) 2014 Kirk Meyer [kirk.meyer@alpaxo.com]
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
